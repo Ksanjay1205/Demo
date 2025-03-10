@@ -1,0 +1,19 @@
+EVALUATE 'Sales Data'
+
+EVALUATE 'Sales Data'
+ORDER by 'Sales Data'[Category] DESC
+
+
+
+
+EVALUATE
+	TOPN(
+		10,
+		'Sales Data'
+		
+			)
+
+
+EVALUATE 'Sales Data'
+ORDER by 'Sales Data'[Category] 
+START AT "E"
