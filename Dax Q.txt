@@ -16,4 +16,4 @@ EVALUATE
 
 EVALUATE 'Sales Data'
 ORDER by 'Sales Data'[Category] 
-START AT "E"
+START AT "F"
